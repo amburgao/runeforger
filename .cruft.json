@@ -1,0 +1,22 @@
+{
+  "template": "https://github.com/audreyfeldroy/cookiecutter-pypackage",
+  "commit": "36c356154fdf28bcfaae692dce6fc494c993658d",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Amburgao",
+      "email": "amburgao@users.noreply.github.com",
+      "github_username": "amburgao",
+      "pypi_package_name": "runeforger",
+      "project_name": "RuneForger",
+      "project_slug": "runeforger",
+      "project_short_description": "Auto-imports builds and runes to client, keeping them up-to-date with the META.",
+      "pypi_username": "amburgao",
+      "first_version": "0.1.0",
+      "__gh_slug": "amburgao/runeforger",
+      "_template": "https://github.com/audreyfeldroy/cookiecutter-pypackage",
+      "_commit": "36c356154fdf28bcfaae692dce6fc494c993658d"
+    }
+  },
+  "directory": null
+}
